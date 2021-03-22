@@ -1,0 +1,19 @@
+{
+    "courses": [{
+            "name": "xzcvczx",
+            "flagURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg/220px-Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg.png",
+            "avalibleLanguages": "Hindi, Sanskrit, English",
+            "course": [{
+                    "mainWord": "My Name is Ashwin",
+                    "LangWord": "Mero Name Ashwin Ho",
+                    "image": ""
+                },
+                {
+                    "mainWord": "Your Name is Ashwin",
+                    "LangWord": "Timro Name Ashwin Ho",
+                    "image": ""
+                }
+            ]
+        }
+    ]
+}
